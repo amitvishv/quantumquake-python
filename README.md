@@ -1,4 +1,4 @@
-# 1. Magical Tree – Problem
+# 1. Magical Tree
 
 Jackson has a magical tree that grows fruits in a special way.
 
